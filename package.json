@@ -1,0 +1,17 @@
+{
+  "name": "bitmask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bitcoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip38": "^2.0.2",
+    "bitcoinjs-lib": "^3.3.2",
+    "dhttp": "^2.4.2",
+    "wif": "^2.0.6"
+  }
+}
